@@ -8,7 +8,7 @@ I am hoping that in the future I can work in the field of Computer Science, part
 - Exploring web development and software engineering concepts
 - Preparing for university and a hopeful future career in tech
 
-## 🧠 Skills & Tools
+## Skills & Tools
 - **Languages**: Python (intermediate, up to around classes), HTML & CSS (beginner)
 - **Software**: PyCharm, VS Code, Git, GitHub, Microsoft Office
 
@@ -19,10 +19,10 @@ I am hoping that in the future I can work in the field of Computer Science, part
 
 ## Beyond Code
 -I love gaming especially playing strategy games such as Crusader Kings and Hearts of Iron and other multipler shooter games.
--I love playing sports(Football, Badminton, Cricket, Volleyball)
+-I love playing sports(Football, Badminton, Cricket, Volleyball).
 -History, I love medieval History and learning about past historical evenets.
--Senior Prefect for my school
--I have regularly helped out in Computer Science lessons by helping the younger years with their Python code, introducing them to HTML and CSS and answering any general questions
+-Senior Prefect for my school.
+-I have regularly helped out in Computer Science lessons by helping the younger years with their Python code, introducing them to HTML and CSS and answering any general questions.
 
 ## Contact Me
 - Email: [advinvarghese8@gmail.com](mailto:advinvarghese8@gmail.com)
